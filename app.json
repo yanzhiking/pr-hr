@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "elearning",
+    "description": "Deploy elearning on Heroku.",
+    "keywords": ["elearning"],
     "env": {
         "ID": {
             "description": "UUID",
